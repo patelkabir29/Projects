@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"eecs2030.pe2","l":"SmartAmericas10Card"}];updateSearchResults();
